@@ -1,4 +1,5 @@
-```markdown
+
+
 # FineTune-Automation: A Framework for Custom Model Fine-Tuning
 
 ## 📌 Overview
@@ -6,17 +7,20 @@
 
 ---
 
+
 ## 📂 Project Structure
 ```
-📁 Automated-News-Mailer/
+
+📁 FineTune-Automation/
 ├── dataset_gen.py  # Dataset generation using Gemini AI
 ├── finetune.py     # Fine-tune models using Hugging Face transformers
 ├── model.py        # Inference on fine-tuned models
 ```
 
----
+
 
 ## 🛠 Features
+
 ✅ **Dataset Generation:** Automatically create datasets for various NLP tasks.  
 ✅ **Fine-Tuning Models:** Fine-tune transformer-based models on custom datasets.  
 ✅ **Model Inference:** Run predictions using the fine-tuned models.  
@@ -28,7 +32,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Priyansh1307/Automated-News-Mailer.git
+git clone https://github.com/tyagipriyansh07/FineTune-Automation
 cd Automated-News-Mailer
 ```
 
@@ -96,4 +100,3 @@ Feel free to contribute to this project by submitting issues, feature requests, 
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-```
