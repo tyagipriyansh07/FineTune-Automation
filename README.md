@@ -32,8 +32,8 @@ FineTune-Automation is a framework that enables users to fine-tune any available
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Priyansh1307/Automated-News-Mailer.git
-cd Automated-News-Mailer
+git clone https://github.com/tyagipriyansh07/FineTune-Automation
+cd FineTune-Automation
 ```
 
 ### 2️⃣ Install Dependencies
