@@ -10,7 +10,7 @@ FineTune-Automation is a framework that enables users to fine-tune any available
 
 ## 📂 Project Structure
 ```
-📁 Automated-News-Mailer/
+📁 FineTune-Automation/
 ├── dataset_gen.py  # Dataset generation using Gemini AI
 ├── finetune.py     # Fine-tune models using Hugging Face transformers
 ├── model.py        # Inference on fine-tuned models
