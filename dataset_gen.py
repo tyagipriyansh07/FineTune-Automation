@@ -392,7 +392,7 @@ Format:
 
 def main():
     # Get API key from environment variable or use default
-    api_key = 'AIzaSyB22EO1oUVrfW6NDQfk84malFNE6xOGxsk'
+    api_key = 'enter you api key'
     
     # Initialize generator
     generator = DatasetGenerator(api_key)
