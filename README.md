@@ -1,8 +1,10 @@
 ```markdown
+```
+
 # FineTune-Automation: A Framework for Custom Model Fine-Tuning
 
 ## 📌 Overview
-**FineTune-Automation** is a framework that enables users to fine-tune any available model for various tasks, automate dataset generation, and perform inference on fine-tuned models. It simplifies the fine-tuning process by integrating dataset preparation, model training, and inference into a streamlined workflow.
+FineTune-Automation is a framework that enables users to fine-tune any available model for various tasks, automate dataset generation, and perform inference on fine-tuned models. It simplifies the fine-tuning process by integrating dataset preparation, model training, and inference into a streamlined workflow.
 
 ---
 
@@ -15,16 +17,18 @@
 ```
 
 ---
-
 ## 🛠 Features
+```
+
 ✅ **Dataset Generation:** Automatically create datasets for various NLP tasks.  
 ✅ **Fine-Tuning Models:** Fine-tune transformer-based models on custom datasets.  
 ✅ **Model Inference:** Run predictions using the fine-tuned models.  
 ✅ **Customizable Tasks:** Supports sentiment analysis, topic classification, question-answering, and more.  
 
----
+```
 
 ## 🚀 Installation & Setup
+```
 
 ### 1️⃣ Clone the Repository
 ```bash
